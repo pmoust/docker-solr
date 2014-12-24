@@ -1,6 +1,8 @@
 pmoust/solr
 ===========
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pmoust/docker-solr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Basic Solr container image powered by Jetty (Ubuntu Trusty (LTS) base).
 
 Available Solr versions/tags:
