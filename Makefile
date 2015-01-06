@@ -1,4 +1,4 @@
-lastest:
+latest:
 	docker build -t pmoust/solr:latest 4.10.3/
 4.7.2:
 	docker build -t pmoust/solr:4.7.2 4.7.2/
